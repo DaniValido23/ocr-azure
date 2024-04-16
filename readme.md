@@ -16,7 +16,7 @@
 
 ### 5. Sube las imagenes que deseas leer en la carpeta `images`
 
-### 6. Ejecuta el script usando el siguiente siguiente comando y pasando como parametro el nombre de tu archivo que deseas analizar
+### 6. Ejecuta el script usando el siguiente comando y pasando como parametro el nombre de tu archivo que deseas analizar
 `python script.py`
 > input
 
