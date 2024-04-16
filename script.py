@@ -39,7 +39,9 @@ def extract_image(img_name):
 
 
 def main():
-    list = extract_image("example.jpg")
+    name = input("Introduce el nombre de tu archivo: ")
+
+    list = extract_image(name)
 
     for info in list:
         print(info)
