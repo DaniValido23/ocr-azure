@@ -7,13 +7,16 @@
 
 
 ### 2. Activar el entorno virtual
-`source venv/bin/activate`
+`venv\Scripts\activate`
 
-### 3. Crea tu archivo .env usando como ejemplo el archivo `.env.template` y setea las variables
+### 3. Instala las dependencias
+`pip install -r requirements.txt`
 
-### 4. Sube las imagenes que deseas leer en la carpeta `images`
+### 4. Crea tu archivo .env usando como ejemplo el archivo `.env.template` y setea las variables
 
-### 5. Ejecuta el script usando el siguiente siguiente comando y pasando como parametro el nombre de tu archivo que deseas analizar
+### 5. Sube las imagenes que deseas leer en la carpeta `images`
+
+### 6. Ejecuta el script usando el siguiente siguiente comando y pasando como parametro el nombre de tu archivo que deseas analizar
 `python script.py`
 > input
 
