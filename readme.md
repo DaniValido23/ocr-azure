@@ -12,5 +12,3 @@
 ### 3. Crea tu archivo .env usando como ejemplo el archivo `.env.template` y setea las variables
 
 ### 4. Sube las imagenes que deseas leer en la carpeta `images`
-
-### 5 
