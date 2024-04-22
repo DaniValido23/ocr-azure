@@ -14,10 +14,11 @@
 
 ### 4. Crea tu archivo .env usando como ejemplo el archivo `.env.template` y setea las variables
 
-### 5. Sube las imagenes que deseas leer en la carpeta `images`
+### 5. Usa el siguiente comando para levantar el servidor
+`uvicorn app:app --reload`
 
-### 6. Ejecuta el script usando el siguiente comando y pasando como parametro el nombre de tu archivo que deseas analizar
-`python script.py`
-> input
+### 6. Sube tu imagen que deseas analizar con OCR en la ruta por default
+`http://127.0.0.1:8000`
 
-`Introduce el nombre de tu archivo: <example.jpg>`
+
+### [DEMO](https://ocr-azure-production.up.railway.app/)
