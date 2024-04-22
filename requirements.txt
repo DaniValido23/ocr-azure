@@ -1,2 +1,6 @@
 azure-cognitiveservices-vision-computervision >= 0.9.0
 python-dotenv >= 1.0.1
+uvicorn
+python-multipart
+fastapi
+jinja2 

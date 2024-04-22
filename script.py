@@ -36,15 +36,3 @@ def extract_image(img_name):
         
     return sentence_list
 
-
-
-def main():
-    name = input("Introduce el nombre de tu archivo: ")
-
-    list = extract_image(name)
-
-    for info in list:
-        print(info)
-
-main()
-
